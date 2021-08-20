@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
+    <Authors>RelaperCrystal</Authors>
+    <PackageLicenseExpression>apache-2.0</PackageLicenseExpression>
+    <Copyright>(C) RelaperCrystal</Copyright>
+    <Product>ClockDay</Product>
+    <PackageId>ClockDay (Rage Plugin Hook)</PackageId>
+    <PackageReleaseNotes>First Public Release</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
