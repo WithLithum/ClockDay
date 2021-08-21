@@ -8,6 +8,7 @@
     <Product>ClockDay</Product>
     <PackageId>ClockDay (Rage Plugin Hook)</PackageId>
     <PackageReleaseNotes>First Public Release</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
